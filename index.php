@@ -5,7 +5,7 @@
     <title>Calcular Total de Pensiones</title>
 </head>
 <body>
-    <h1>Calcular Total de Pensiones del Colegio</h1>
+    <h1>Calcular Total de Pensiones del Colegio, </h1>
 
     <?php
     require_once 'Colegio.php';
